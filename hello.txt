@@ -5,3 +5,6 @@ need all things
 
 base fore
 This line is from github and all
+
+
+Terminal in the phase of work and practice in the following
